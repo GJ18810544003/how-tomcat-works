@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://D:/HowTomcatWorks-源码/HowTomcatWorks/lib" />
+      <root url="jar://D:/jakarta-tomcat-4.1.12/jakarta-tomcat-4.1.12/server/lib/catalina.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/HowTomcatWorks-源码/HowTomcatWorks/lib" recursive="false" />
+  </library>
+</component>
